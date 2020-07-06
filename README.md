@@ -1,1 +1,3 @@
-# MongoDB-connection-using-Node-JS
+use npm i
+
+enter your URI string  inside DB/Connection.js
